@@ -14,7 +14,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=pwa_webapp",
+  "start_url": "/spa/pwa",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
