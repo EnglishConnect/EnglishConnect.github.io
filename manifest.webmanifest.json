@@ -5,12 +5,8 @@
   "icons": [
     {
 "src":"https:\/\/superpwa.com\/wp-content\/uploads\/2018\/03\/logo-192x192.png","sizes":"192x192","type":"image\/png","purpose":"any maskable"
-    },
-    {
-      "src": "001-elephant.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
+
   ],
   "start_url": "/?utm_source=pwa_webapp",
   "background_color": "#FFFFFF",
